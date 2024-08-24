@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://ifdefevg.github.io/sitemap/sitemap.txt
